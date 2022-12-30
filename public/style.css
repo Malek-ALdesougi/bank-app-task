@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#image{
+    background-image: url('https://img.freepik.com/free-vector/money-income-attraction_74855-6573.jpg?w=2000');
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: left;
+    height: 650px;
+    width: 100%;
+}
+
